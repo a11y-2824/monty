@@ -1,3 +1,4 @@
+#define _GNU_SOURCE
 #ifdef MAIN_H
 #define MAIN_H
 
